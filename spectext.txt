@@ -1,0 +1,1 @@
+THis is a special text that i wrote for testing the merge functionality.
